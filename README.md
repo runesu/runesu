@@ -22,17 +22,34 @@ I focus on turning raw data into **actionable insights** that drive strategic de
 
 ---
 
-## 📈 Career Progress & Learning Roadmap
-- ✅ **Attained** Data Analytics skills – *by August 2025*  
-- 🔄 **In Progress**: AI / Machine Learning skills – *by December 2025*  
-- ⏳ **Coming Soon**: Data Engineering skills – *by August 2026*  
+## 📈 Career Progress & Learning Roadmap  
+
+| Status | Skill Area | Timeline |
+|--------|------------|----------|
+| ✅ Attained | Data Analytics | August 2025 |
+| 🔄 In Progress | AI / Machine Learning | December 2025 |
+| ⏳ Coming Soon | Data Engineering | August 2026 |
 
 ---
 
-## 🛠️ Tools & Technologies
-**Languages & Libraries**: Python (pandas, matplotlib, seaborn), SQL  
-**Visualization & BI**: Power BI, Tableau  
-**Workflow & Collaboration**: Git, Jupyter, VSCode  
+## 🛠️ Tools & Technologies  
+
+**Languages & Libraries**  
+- Python (pandas, matplotlib, seaborn, scikit-learn for ML)  
+- SQL (PostgreSQL, MySQL basics)  
+
+**Data Visualization & BI**  
+- Power BI  
+- Tableau  
+- Matplotlib / Seaborn  
+
+**Workflow & Collaboration**  
+- Git & GitHub  
+- VSCode  
+- Anaconda / Virtual Environments  
+
+**Cloud**  
+- AWS   
 
 ---
 
