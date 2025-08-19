@@ -35,21 +35,25 @@ I focus on turning raw data into **actionable insights** that drive strategic de
 ## 🛠️ Tools & Technologies  
 
 **Languages & Libraries**  
-- Python (pandas, matplotlib, seaborn, scikit-learn for ML)  
-- SQL (PostgreSQL, MySQL basics)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)  
 
 **Data Visualization & BI**  
-- Power BI  
-- Tableau  
-- Matplotlib / Seaborn  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black) 
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=python&logoColor=white) 
+![Seaborn](https://img.shields.io/badge/Seaborn-76B900?logo=python&logoColor=white)  
 
 **Workflow & Collaboration**  
-- Git & GitHub  
-- VSCode  
-- Anaconda / Virtual Environments  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white) 
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white)  
 
 **Cloud**  
-- AWS   
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)  
 
 ---
 
