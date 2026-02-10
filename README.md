@@ -27,8 +27,8 @@ I focus on turning raw data into **actionable insights** that drive strategic de
 | Status | Skill Area | Timeline |
 |--------|------------|----------|
 | ✅ Attained | Data Analytics | August 2025 |
-| 🔄 In Progress | AI / Machine Learning | December 2025 |
-| ⏳ Coming Soon | Data Engineering | August 2026 |
+| ✅ Attained | AI / Machine Learning | December 2025 |
+| 🔄 In Progress | Data Engineering | August 2026 |
 
 ---
 
