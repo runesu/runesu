@@ -3,7 +3,7 @@
 <img align="right" src="https://avatars.githubusercontent.com/u/44964434?v=4" width="180" height="180">
 
 ## 🎯 About Me
-I am a data analytics professional passionate about solving **real business challenges with data and AI**.  
+I am a data science professional passionate about solving **real business challenges with data and AI**.  
 Currently enrolled in the **STEM Master’s in Business Analytics** program at **Hult International Business School** (Sept 2025 – Aug 2026).  
 
 I focus on turning raw data into **actionable insights** that drive strategic decisions, efficiency, and growth.  
