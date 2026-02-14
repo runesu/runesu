@@ -44,10 +44,10 @@ I focus on turning raw data into **actionable insights** that drive strategic de
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) 
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)  
 
+**Machine Learning & Neural Networks**  
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) 
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-3B4D61?logo=python&logoColor=white)  
 
-**Machine Learning & Neural Networks**  
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?logo=python&logoColor=white) 
 ![LightGBM](https://img.shields.io/badge/LightGBM-02569B?logo=python&logoColor=white) 
 ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?logo=python&logoColor=black)  
