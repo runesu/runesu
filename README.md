@@ -38,7 +38,6 @@ I focus on turning raw data into **actionable insights** that drive strategic de
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white) 
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)  
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) 
@@ -81,7 +80,8 @@ I focus on turning raw data into **actionable insights** that drive strategic de
 ![DVC](https://img.shields.io/badge/DVC-945DD6?logo=python&logoColor=white)  
 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white) 
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)  
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white) 
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)  
 
 **Databases & Data Platforms**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) 
