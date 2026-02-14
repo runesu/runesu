@@ -97,10 +97,12 @@ I focus on turning raw data into **actionable insights** that drive strategic de
 
 **Operating Systems & Platforms**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) 
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)  
+
 ![Red%20Hat](https://img.shields.io/badge/Red%20Hat-EE0000?logo=redhat&logoColor=white) 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![AIX](https://img.shields.io/badge/IBM%20AIX-052FAD?logo=ibm&logoColor=white) 
-![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)  
+
 
 
 ---
