@@ -115,6 +115,8 @@ Revenue declined in Q1 2024 relative to Q4 2023, prompting a structured diagnost
 
 ### 🔹 [Sales Strategies Analysis — Pens & Printers](https://github.com/runesu/product-sales--pens-and-printers.git)  
 
+<img src="https://github.com/runesu/product-sales--pens-and-printers/blob/main/figures/avg_weekly_revenue_by_method.png?raw=true">
+
 **Business Overview**  
 Pens & Printers previously launched a product using three sales strategies, and the sales team provided the dataset. With an upcoming product launch, the sales team asked the Business Intelligence team to analyze which strategy—**Email, Call, or Email + Call**—proved most effective.  
 
@@ -123,10 +125,6 @@ Pens & Printers previously launched a product using three sales strategies, and 
 - **Email** → Most scalable and efficient for broad outreach  
 - **Call** → Least effective, limited reach and lower revenue  
 - **Recommendation** → Blend strategies: use **Email + Call** for high-value accounts, **Email** for large-scale campaigns, and **Calls** for non-digital/unresponsive customers
-
-The chart below illustrates the weekly revenue trend for each strategy:
-
-<img src="https://github.com/runesu/product-sales--pens-and-printers/blob/main/figures/avg_weekly_revenue_by_method.png?raw=true">
 
  ---
 
