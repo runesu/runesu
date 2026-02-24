@@ -22,16 +22,6 @@ I focus on turning raw data into **actionable insights** that drive strategic de
 
 ---
 
-## 📈 Career Progress & Learning Roadmap  
-
-| Status | Skill Area | Timeline |
-|--------|------------|----------|
-| ✅ Attained | Data Analytics | August 2025 |
-| ✅ Attained | AI / Machine Learning | December 2025 |
-| 🔄 In Progress | Data Engineering | August 2026 |
-
----
-
 ## 🛠️ Tools & Technologies  
 
 **Languages & Libraries**  
@@ -103,13 +93,11 @@ I focus on turning raw data into **actionable insights** that drive strategic de
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![AIX](https://img.shields.io/badge/IBM%20AIX-052FAD?logo=ibm&logoColor=white) 
 
-
-
 ---
 
 ## 📂 Projects
 
-## 🔹 [Ecommerce Strategic Revenue Attribution Analysis](https://github.com/runesu/Ecommerce-Revenue-Attribution-Analysis.git)
+### 🔹 [Ecommerce Strategic Revenue Attribution Analysis](https://github.com/runesu/Ecommerce-Revenue-Attribution-Analysis.git)
 
 <img src="https://github.com/runesu/Ecommerce-Revenue-Attribution-Analysis/blob/master/figures/quarterly_trend.png">
 
@@ -123,7 +111,7 @@ Revenue declined in Q1 2024 relative to Q4 2023, prompting a structured diagnost
 - Contraction concentrated among **returning customers**
 - Desktop traffic in major metropolitan markets (especially Istanbul) disproportionately impacted
 - Behavioral and operational metrics remained stable → decline driven by demand softening, not experience deterioration
-- Recommendation → Prioritize returning customer reactivation and investigate Desktop channel performance in high-volume markets
+- **Recommendation** → Prioritize returning customer reactivation and investigate Desktop channel performance in high-volume markets
 
 ### 🔹 [Sales Strategies Analysis — Pens & Printers](https://github.com/runesu/product-sales--pens-and-printers.git)  
 
@@ -140,46 +128,7 @@ The chart below illustrates the weekly revenue trend for each strategy:
 
 <img src="https://github.com/runesu/product-sales--pens-and-printers/blob/main/figures/avg_weekly_revenue_by_method.png?raw=true" width="600">
 
----
-
-### 🔹 [Used Car Sales Analysis — Discount Motors](https://github.com/runesu/used-car-sales-analysis.git)  
-**Business Overview**  
-Discount Motors plans to grow **Hybrid and Electric** sales next year. This analysis reviews the last six months of Toyota used-car sales to understand fuel-type mix, pricing, efficiency, and value drivers to guide pricing, inventory, and marketing decisions.
-
-**Outcome**  
-- **Fuel-type mix:** Hybrids are underrepresented vs. demand signals → opportunity to rebalance stock  
-- **Pricing:** Clear **hybrid price premium**; some model–year pockets show a small premium that can be bridged with targeted offers  
-- **Efficiency (MPG):** Hybrids deliver higher fuel efficiency, strengthening the customer value case  
-- **Ownership cost:** Median **road tax is lower** for hybrids, improving total cost of ownership  
-- **Depreciation:** **Price decreases with mileage** across fuels; hybrids retain value relatively better  
-- **Recommendation:**  
-  - Increase hybrid inventory for top models with strong MPG and favorable tax  
-  - Use targeted finance/discounts where the hybrid premium is small  
-  - Market the total cost of ownership (MPG + tax) with side-by-side comparisons 
-
-The chart below shows the sales count by fuel type, highlighting how hybrids lag behind petrol and diesel:
-
-<img src="https://github.com/runesu/used-car-sales-analysis/blob/main/figures/sales_count_by_fuel_type.png?raw=true" width="600"> 
-
----
-
-### 🔹 [Customer Churn Analysis — XYZ Bank](https://github.com/runesu/Bank-Customer-Attrition-analysis.git)
-
-**Business Overview** 
-XYZ Bank asked for an analytics review to understand **which customers are most at risk of leaving** and **what actions reduce churn**. This project uses Descriptive & Diagnostic Analytics (validation → EDA → segmentation → hypothesis tests) to surface risk signals the bank can act on immediately, with predictive modeling planned next.
-
-**Outcome**  
-- **Balance & churn:** Customers with **higher balances** show a **higher likelihood of churn** → protect high-value accounts  
-- **Age band risk:** **45–65** year customers churn more frequently → prioritize engagement for this segment  
-- **Engagement:** **Inactive accounts** are significantly more likely to churn → re-activation is a fast win  
-- **Segmentation:** Binning continuous features (age, tenure, balance) clarified at-risk cohorts for targeted outreach  
-- **Recommendation:**  
-  - Launch **proactive retention offers** for high-balance customers (fee waivers, dedicated advisor, tailored products)  
-  - **Target 45–65** with relevant communications (retirement/wealth planning, loyalty programs)  
-  - Run **re-engagement campaigns** for inactive accounts (nudges, product trials, incentives)  
- 
-
----
+ ---
 
 ## 📫 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/shepherd-runesu/)  
