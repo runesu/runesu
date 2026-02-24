@@ -126,7 +126,7 @@ Pens & Printers previously launched a product using three sales strategies, and 
 
 The chart below illustrates the weekly revenue trend for each strategy:
 
-<img src="https://github.com/runesu/product-sales--pens-and-printers/blob/main/figures/avg_weekly_revenue_by_method.png?raw=true" width="600">
+<img src="https://github.com/runesu/product-sales--pens-and-printers/blob/main/figures/avg_weekly_revenue_by_method.png?raw=true">
 
  ---
 
