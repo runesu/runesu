@@ -111,9 +111,10 @@ I focus on turning raw data into **actionable insights** that drive strategic de
 
 ## 🔹 [Ecommerce Strategic Revenue Attribution Analysis](https://github.com/runesu/Ecommerce-Revenue-Attribution-Analysis.git)
 
-![Quarterly Revenue Trend](images/quarterly_trend.png)
+<img src="https://github.com/runesu/Ecommerce-Revenue-Attribution-Analysis/blob/master/figures/quarterly_trend.png">
 
-**Business Context**  
+**Business Overview**  
+
 Revenue declined in Q1 2024 relative to Q4 2023, prompting a structured diagnostic to identify the underlying financial and behavioral drivers behind the contraction.
 
 **Outcome**
@@ -123,8 +124,6 @@ Revenue declined in Q1 2024 relative to Q4 2023, prompting a structured diagnost
 - Desktop traffic in major metropolitan markets (especially Istanbul) disproportionately impacted
 - Behavioral and operational metrics remained stable → decline driven by demand softening, not experience deterioration
 - Recommendation → Prioritize returning customer reactivation and investigate Desktop channel performance in high-volume markets
-
-👉 Click to explore the full layered revenue decomposition and attribution analysis.
 
 ### 🔹 [Sales Strategies Analysis — Pens & Printers](https://github.com/runesu/product-sales--pens-and-printers.git)  
 
