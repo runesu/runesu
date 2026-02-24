@@ -3,10 +3,11 @@
 <img align="right" src="https://avatars.githubusercontent.com/u/44964434?v=4" width="180" height="180">
 
 ## 🎯 About Me
-I am a data science professional passionate about solving **real business challenges with data and AI**.  
-Currently enrolled in the **STEM Master’s in Business Analytics** program at **Hult International Business School** (Sept 2025 – Aug 2026).  
+Master’s in Business Analytics student at Hult International Business School (Boston, 2025–2026), specializing in Digital Commerce and Growth Analytics.
 
-I focus on turning raw data into **actionable insights** that drive strategic decisions, efficiency, and growth.  
+I focus on transforming customer, marketing, and transactional data into measurable business impact across ecommerce and marketplace environments. My work centers on conversion optimization, funnel analysis, cohort retention, customer lifetime value, and performance measurement using SQL, Python, Power BI, Tableau, and applied statistical methods.
+
+My projects are built around complete analytical workflows — from data preparation and exploratory analysis to experimentation, performance evaluation, and executive-ready insight communication — with a strong focus on data-driven growth strategy. 
 
 ---
 
