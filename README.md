@@ -98,7 +98,7 @@ My projects are built around complete analytical workflows — from data prepara
 
 ## 📂 Projects
 
-### 🔹 [Ecommerce Strategic Revenue Attribution Analysis](https://github.com/runesu/Ecommerce-Revenue-Attribution-Analysis.git)
+### 🔹 [Ecommerce Strategic Revenue Attribution Analysis (Phase I)](https://github.com/runesu/Ecommerce-Revenue-Attribution-Analysis.git)
 
 <img src="https://github.com/runesu/Ecommerce-Revenue-Attribution-Analysis/blob/master/figures/quarterly_trend.png">
 
