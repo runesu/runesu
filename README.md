@@ -114,6 +114,23 @@ Revenue declined in Q1 2024 relative to Q4 2023, prompting a structured diagnost
 - Behavioral and operational metrics remained stable → decline driven by demand softening, not experience deterioration
 - **Recommendation** → Prioritize returning customer reactivation and investigate Desktop channel performance in high-volume markets
 
+### 🔹 [Chicago Bike Rental Demand Prediction & Maintenance Optimization](https://github.com/runesu/Chicago-Bike-Rental-Demand-Prediction-Maintenance-Optimization-.git)
+
+<img src="https://github.com/runesu/Chicago-Bike-Rental-Demand-Prediction-Maintenance-Optimization-/blob/master/figures/tree.png">
+
+**Business Overview**
+
+Bike-sharing systems require regular maintenance to ensure safety and reliability, but performing maintenance during peak demand can disrupt customers and reduce service availability. This project analyzes Chicago bike rental data to understand usage behavior and develop a predictive model that identifies **low-demand periods where maintenance can be performed with minimal customer disruption**.
+
+**Outcome**
+
+- Majority of bike usage driven by **exercise and leisure**, not commuting  
+- Weather and time-of-day strongly influence rental demand  
+- **Decision Tree Regressor selected as the final model** for its performance and interpretability  
+- Lowest demand occurs **between midnight and early morning (00:00–05:00)**  
+- Extremely cold temperatures (**below −8°C**) correspond to the **lowest predicted demand (~58 rentals)**  
+- **Recommendation → Schedule major maintenance during midnight hours and extreme cold conditions to minimize service disruption**
+
 ### 🔹 [Sales Strategies Analysis — Pens & Printers](https://github.com/runesu/product-sales--pens-and-printers.git)  
 
 <img src="https://github.com/runesu/product-sales--pens-and-printers/blob/main/figures/avg_weekly_revenue_by_method.png?raw=true">
