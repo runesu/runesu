@@ -146,6 +146,23 @@ Bike-sharing systems require regular maintenance to ensure safety and reliabilit
 - Extremely cold temperatures (**below −8°C**) correspond to the **lowest predicted demand (~58 rentals)**  
 - **Recommendation → Schedule major maintenance during midnight hours and extreme cold conditions to minimize service disruption**
 
+
+### 🔹 [Chef’s Compass Revenue Prediction](https://github.com/runesu/Chef-s-Compass-Revenue-Prediction-Analysis.git)
+
+<img src="https://github.com/runesu/Chef-s-Compass-Revenue-Prediction-Analysis/blob/master/figures/avgSiteVisit.png">
+
+**Business Overview**
+
+Chef’s Compass is a digital meal delivery platform seeking to understand the behavioral and operational factors that drive customer revenue. The objective of this project was to identify the strongest predictors of customer spending and develop a predictive model that can estimate revenue based on customer engagement, ordering behavior, and service interactions.
+
+**Outcome**
+
+- Identified **customer engagement intensity (average time per site visit)** as one of the strongest indicators of higher revenue  
+- Demonstrated that **customers who spend more time exploring meals and platform content tend to generate significantly higher spending**  
+- Built a predictive revenue model that achieved **~0.79 R² prediction accuracy** using customer behavioral and transactional data  
+- Discovered that **ordering frequency, product exploration, and customer satisfaction signals** are major drivers of revenue  
+- **Recommendation → Prioritize platform engagement, meal discovery features, and customer experience improvements to increase customer lifetime value**
+
  ---
 
 ## 📫 Let’s Connect
