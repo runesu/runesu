@@ -98,7 +98,7 @@ My projects are built around complete analytical workflows — from data prepara
 
 ## 📂 Projects
 
-### 🔹 [Ecommerce Strategic Revenue Attribution Analysis (Phase I)](https://github.com/runesu/Ecommerce-Revenue-Attribution-Analysis.git)
+### 🔹 [Ecommerce Strategic Revenue Attribution Analysis (Phase I)](https://github.com/runesu/Ecommerce-Revenue-Attribution-Analysis.git)![Data Analytics](https://img.shields.io/badge/Type-Data%20Analytics-orange)
 
 <img src="https://github.com/runesu/Ecommerce-Revenue-Attribution-Analysis/blob/master/figures/quarterly_trend.png">
 
@@ -115,7 +115,7 @@ Revenue declined in Q1 2024 relative to Q4 2023, prompting a structured diagnost
 - **Recommendation** → Prioritize returning customer reactivation and investigate Desktop channel performance in high-volume markets
 
 
-### 🔹 [Sales Strategies Analysis — Pens & Printers](https://github.com/runesu/product-sales--pens-and-printers.git)  
+### 🔹 [Sales Strategies Analysis — Pens & Printers](https://github.com/runesu/product-sales--pens-and-printers.git)![Data Analytics](https://img.shields.io/badge/Type-Data%20Analytics-orange)  
 
 <img src="https://github.com/runesu/product-sales--pens-and-printers/blob/main/figures/avg_weekly_revenue_by_method.png?raw=true">
 
@@ -129,7 +129,7 @@ Pens & Printers previously launched a product using three sales strategies, and 
 - **Recommendation** → Blend strategies: use **Email + Call** for high-value accounts, **Email** for large-scale campaigns, and **Calls** for non-digital/unresponsive customers
 
 
-### 🔹 [Chicago Bike Rental Demand Prediction & Maintenance Optimization](https://github.com/runesu/Chicago-Bike-Rental-Demand-Prediction-Maintenance-Optimization-.git)
+### 🔹 [Chicago Bike Rental Demand Prediction & Maintenance Optimization](https://github.com/runesu/Chicago-Bike-Rental-Demand-Prediction-Maintenance-Optimization-.git)![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Project-blue)
 
 <img src="https://github.com/runesu/Chicago-Bike-Rental-Demand-Prediction-Maintenance-Optimization-/blob/master/figures/tree.png">
 
@@ -147,7 +147,7 @@ Bike-sharing systems require regular maintenance to ensure safety and reliabilit
 - **Recommendation → Schedule major maintenance during midnight hours and extreme cold conditions to minimize service disruption**
 
 
-### 🔹 [Chef’s Compass Revenue Prediction](https://github.com/runesu/Chef-s-Compass-Revenue-Prediction-Analysis.git)
+### 🔹 [Chef’s Compass Revenue Prediction](https://github.com/runesu/Chef-s-Compass-Revenue-Prediction-Analysis.git)![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Project-blue)
 
 <img src="https://github.com/runesu/Chef-s-Compass-Revenue-Prediction-Analysis/blob/master/figures/avgSiteVisit.png">
 
