@@ -3,11 +3,11 @@
 <img align="right" src="https://avatars.githubusercontent.com/u/44964434?v=4" width="180" height="180">
 
 ## 🎯 About Me
-Master’s in Business Analytics student at Hult International Business School (Boston, 2025–2026), specializing in Digital Commerce and Growth Analytics.
+Master’s in Business Analytics student at Hult International Business School (Boston, 2025–2026) with a focus on data science, machine learning, and applied analytics.
 
-I focus on transforming customer, marketing, and transactional data into measurable business impact across ecommerce and marketplace environments. My work centers on conversion optimization, funnel analysis, cohort retention, customer lifetime value, and performance measurement using SQL, Python, Power BI, Tableau, and applied statistical methods.
+I work on transforming complex datasets into predictive insights through statistical modeling, machine learning, and data analysis using Python and SQL. My projects explore how data-driven methods can support decision-making across business and operational environments.
 
-My projects are built around complete analytical workflows — from data preparation and exploratory analysis to experimentation, performance evaluation, and executive-ready insight communication — with a strong focus on data-driven growth strategy. 
+This repository showcases hands-on projects built around complete analytical workflows — from data preparation and exploratory analysis to feature engineering, model development, evaluation, and insight communication using real-world datasets.
 
 ---
 
