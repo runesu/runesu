@@ -3,11 +3,11 @@
 <img align="right" src="https://avatars.githubusercontent.com/u/44964434?v=4" width="180" height="180">
 
 ## 🎯 About Me
-Master’s in Business Analytics student at Hult International Business School (Boston, 2025–2026) with a focus on data science, machine learning, and applied analytics.
+Master's in Business Analytics student at Hult International Business School (Boston, 2025–2026), focused on data science, machine learning, and applied analytics.
 
-I work on transforming complex datasets into predictive insights through statistical modeling, machine learning, and data analysis using Python and SQL. My projects explore how data-driven methods can support decision-making across business and operational environments.
+I turn complex datasets into predictive insights using statistical modeling, machine learning, and data analysis in Python and SQL. My work explores how data-driven methods support better decisions across business and operational settings.
 
-This repository showcases hands-on projects built around complete analytical workflows — from data preparation and exploratory analysis to feature engineering, model development, evaluation, and insight communication using real-world datasets.
+This profile showcases hands-on projects built around complete analytical workflows: data preparation, exploratory analysis, feature engineering, model development, evaluation, and insight communication, all using real-world datasets.
 
 ---
 
