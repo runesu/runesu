@@ -3,11 +3,11 @@
 <img align="right" src="https://avatars.githubusercontent.com/u/44964434?v=4" width="180" height="180">
 
 ## 🎯 About Me
-Master's in Business Analytics student at Hult International Business School (Boston, 2025–2026), focused on data science, machine learning, and applied analytics.
+I’m a technology professional with a background in enterprise infrastructure, systems administration, and data-driven problem solving.
 
-I turn complex datasets into predictive insights using statistical modeling, machine learning, and data analysis in Python and SQL. My work explores how data-driven methods support better decisions across business and operational settings.
+My work spans infrastructure engineering, cloud and systems technologies, Python, SQL, data analytics, and machine learning. I enjoy building practical solutions that combine strong technical foundations with data and automation to solve real-world problems.
 
-This profile showcases hands-on projects built around complete analytical workflows: data preparation, exploratory analysis, feature engineering, model development, evaluation, and insight communication, all using real-world datasets.
+This profile showcases hands-on projects across data analytics and machine learning, with an emphasis on Python, SQL, statistical analysis, predictive modeling, and end-to-end data workflows. It also reflects my broader interest in infrastructure, automation, cloud technologies, and the intersection of data, AI, and modern technology platforms.
 
 ---
 
